@@ -5,7 +5,7 @@
 1). homework_scripts_1_task.py и test_homework_1_task.py - код и тесты для первого задания.  
 2). test_calc_2_task.py и calc_2_task.py - тест и код для второго задания  
 
-Картинки ".png" Test1Good.png и Test2Good.png - с результатом того, что тесты прошли успешно.  
+Картинки ".png" Test1AllGood.png и Test2AllGood.png - с результатом того, что тесты прошли успешно.  
 
 
 homework_scripts_1_task.py и test_homework_1_task.py - код и тесты для первого задания (Для любого дз написать набор тестов.)  
